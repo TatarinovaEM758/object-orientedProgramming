@@ -1,5 +1,9 @@
 # object-orientedProgramming
 
-[lecture 1](/lecture1.ipynb).
+[Лекция 1 от 10.02](/lecture1.ipynb).
 
-[lab 1, number 1.1](/laba1num11.ipynb).
+[1.1. Создание простых классов](/num11.ipynb).
+
+[1.2. Создание простых классов](/)
+
+[1.3. Методы класса](/)
