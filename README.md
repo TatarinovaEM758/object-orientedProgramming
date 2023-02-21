@@ -1,5 +1,5 @@
 # object-orientedProgramming
-[Объектно-ориентированное программированние]
+
 
 [Лекция 1 от 10.02](/lecture1.ipynb).
 
